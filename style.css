@@ -1,0 +1,109 @@
+.fixed-top {
+    height: 30px;
+    text-align: right;
+    padding-right: 100px;
+}
+.main1 {
+    background-image:url('../Основа проект/smartbg.jpg');
+    display:flex;
+    margin-top:30px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 60vh;
+    width:100%;
+    text-align: left;
+}
+.main2 {
+    display:flex;
+    flex-direction: column;
+    margin-top:30px;
+    height: 60vh;
+    text-align: center;
+    justify-content: center;
+    padding:20% 0%;
+}
+.main3 {
+    display:flex;
+    flex-direction: column;
+    margin-top:30px;
+    height: 60vh;
+    background-color: #00FF00;
+}
+.main4 {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    height: 60vh;
+    background-color:#000;
+}
+.main5 {
+    display:flex;
+    flex-direction: column;
+    margin-top:30px;
+    height: 60vh;
+}
+.text1{
+    display:grid;
+    padding-left:20%;
+    padding-top:2%;
+    column-gap: 100px;
+    padding-bottom:5%;
+}
+.head {
+    color:#00FF00;
+    font-size:36px;
+}
+.borderless-table {
+    margin-left: 12%;
+    text-align: left;
+
+}
+.text2 {
+    display: grid;
+    padding-left: 20%;
+    padding-top: 2%;
+    column-gap: 100px;
+    padding-bottom: 5%;
+    color:#ffffff;
+    text-align: left;
+}
+.low {
+    font-size:24px;
+}
+.text3 {
+    display: grid;
+    padding-left: 20%;
+    padding-top: 2%;
+    column-gap: 100px;
+    padding-bottom: 5%;
+    color:#ffffff;
+    text-align: left;
+}
+.pht1{
+    float: right;
+    margin-right:200px;
+    position: absolute;
+    z-index:0;
+}
+.pht2{
+    float: right;
+    padding-right:200px;
+    position: absolute;
+    z-index:2;
+
+}
+.centbut{
+    justify-content: center;
+    align-items: center;
+    padding:20px 40px;
+    top: 50%;
+    left: 50%;
+}
+.text4{
+    color:#ffffff;
+    text-align:center;
+    justify-content: center;
+    margin: 5% auto;
+
+
+}
