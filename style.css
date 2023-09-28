@@ -4,7 +4,7 @@
     padding-right: 100px;
 }
 .main1 {
-    background-image:url('../Основа проект/smartbg.jpg');
+    background-image:url('../project/smartbg.jpg');
     display:flex;
     margin-top:30px;
     background-repeat: no-repeat;
@@ -41,6 +41,8 @@
     flex-direction: column;
     margin-top:30px;
     height: 60vh;
+    text-align: center;
+    padding:30px;
 }
 .text1{
     display:grid;
@@ -104,6 +106,27 @@
     text-align:center;
     justify-content: center;
     margin: 5% auto;
-
-
+}
+.picture{
+    justify-content: center;
+    align-items: center;
+    padding:30px;
+}
+.name{
+    padding:15px 300px;
+    margin-bottom:20px;
+}
+.mail{
+    padding:15px 300px;
+    margin-bottom:20px
+}
+.phone{
+    padding:15px 300px;
+    margin-bottom:20px
+}
+.mes{
+    padding:50px 300px;
+}
+.text{
+    padding: 0
 }
